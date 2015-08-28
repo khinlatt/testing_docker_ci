@@ -1,0 +1,10 @@
+{
+  "name": "captcha",
+  "private": true,
+  "version": "0.0.1",
+  "description": "captcha and options",
+  "author": "khinlatt",
+  "dependencies": {
+    "phantomjs": "^1.9.18"
+  }
+}
